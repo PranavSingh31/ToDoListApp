@@ -12,8 +12,6 @@ A simple task manager application to help you keep track of your tasks. This app
 - Delete tasks
 - Filter tasks by status
 - Clear all tasks
-- Light and Dark modes
-- Different themes and fonts
 
 ## Usage
 
@@ -42,11 +40,6 @@ A simple task manager application to help you keep track of your tasks. This app
 ### Filtering Tasks
 
 - Click the filter buttons to show tasks based on their status: "All," "Completed," or "Pending."
-
-### Changing Themes and Fonts
-
-- You can toggle between Light and Dark modes by clicking on the "Toggle Light/Dark Mode" button in the "Themes" menu.
-- You can change the font for the selected task by clicking on the "Fonts" menu and choosing a font option (e.g., Arial, Times New Roman).
 
 ### Clearing All Tasks
 
