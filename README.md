@@ -2,6 +2,8 @@
 
 A simple task manager application to help you keep track of your tasks. This app allows you to add, edit, mark as completed, and delete tasks. You can also filter tasks by status - "All," "Completed," or "Pending.". The project is deployed at [here](https://todolistpr.netlify.app)
 
+![image](https://github.com/PranavSingh31/ToDoListApp/assets/76558062/22a2e857-5e65-4765-bc8f-1d09819d06ca)
+
 ## Features
 
 - Add new tasks
